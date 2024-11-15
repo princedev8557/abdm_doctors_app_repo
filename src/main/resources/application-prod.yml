@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: doctors_app_abha_repo
